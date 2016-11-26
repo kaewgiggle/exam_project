@@ -4,7 +4,7 @@
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Examination <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="exam.php">Practice</a></li>
+            <li><a href="examList.php">Practice Exam</a></li>
             <li role="separator" class="divider"></li>
             <li><a href="#">Trick an Tips</a></li>
           </ul>
